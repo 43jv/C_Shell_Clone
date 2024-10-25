@@ -1,5 +1,4 @@
-# OSN Assignment 3
-## 2021101046
+# Clone of Shell in C
 
 ---
 
